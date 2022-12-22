@@ -5,7 +5,7 @@ int main()
 {
     int x=0,y=0;
     printf("enter values of row ");
-    scanf("%d",&x,&y);
+    scanf("%d",&x);
 
     Pattern24(x);
     return 0;
