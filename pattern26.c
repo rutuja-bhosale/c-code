@@ -14,7 +14,7 @@ int main()
 void Pattern26(int no)
 {
     int i=0;
-    static icnt=0;
+    static int icnt=0;
 
     if(no!=0)
     {
