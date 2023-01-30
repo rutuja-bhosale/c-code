@@ -1,3 +1,5 @@
+// write a function to accept string and no from user and print that no of characters from the string
+
 #include <stdio.h>
 
 void printNchar(const char*,int);
